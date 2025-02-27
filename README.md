@@ -1,4 +1,1 @@
-# DA-Python
-This repository has data analysis projects using Python. 
-
-Topics: Multivariate analysis mainly, including Linear/Polyunomial Regression, Logistic Regression, LDA/QDA, KNN, Random Forest, etc.
+This project analyzed the prevalence of major chronic diseases in the U.S. over time, uncovering trends and patterns using machine learning and data analysis. By leveraging historical health data, the study explored how factors such as demographics and time influence disease occurrence. The findings provided insights into public health trends, aiding in better understanding and potential policy implications.
